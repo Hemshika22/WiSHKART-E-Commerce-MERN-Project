@@ -33,7 +33,7 @@ WishKart/
 | React Router | JWT/Auth (optional) | | Cloudinary/Multer (optional) |
 
 ---
-![Home Page](image-1.png)
+![alt text](image-6.png)
 ![Product Page](image-2.png)
 ![Cart Page](image-3.png)
 ![Login Page](image-4.png)
