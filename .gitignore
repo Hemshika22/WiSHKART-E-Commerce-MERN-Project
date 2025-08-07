@@ -1,0 +1,15 @@
+# Ignore node_modules in all subfolders
+**/node_modules
+
+# Ignore build outputs if any
+**/dist
+**/build
+
+# Ignore environment variables
+**/.env
+
+# Ignore logs
+*.log
+
+# Ignore IDE files
+.vscode/
