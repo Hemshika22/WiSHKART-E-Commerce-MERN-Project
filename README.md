@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ WishKart - MERN Stack eCommerce Website
 
 WishKart is a full-featured eCommerce web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It supports product listings, add-to-cart functionality, admin panel, and complete backend integration.
@@ -84,3 +85,4 @@ backend/
   ├── index.js
   ├── routes/
   ├── models/
+=======

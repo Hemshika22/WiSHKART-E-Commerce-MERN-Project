@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore node_modules in all subfolders
 **/node_modules
 
@@ -13,3 +14,29 @@
 
 # Ignore IDE files
 .vscode/
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+>>>>>>> 5ce50151f70be406ba3e0bee5f5e3c0dd154ea0f
